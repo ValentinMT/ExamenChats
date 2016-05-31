@@ -1,0 +1,45 @@
+.button-collapse, .brand-logo{
+	margin-left: 20px;
+}
+
+#eliminar {
+	background: none;
+	border: 0;
+	color: #880e4f !important;
+	padding: 0;
+}
+
+#mensaje {
+	color: red;
+	background-color: #ffcdd2;
+	border-radius: 3px;
+	padding: 5px;
+}
+
+/*Para cambiar el color de las líneas de los input-field*/
+.input-field input[type=text]:focus{
+    border-bottom: 1px solid #880e4f !important;
+    box-shadow: 0 1px 0 0 #880e4f !important;
+    color: #880e4f !important;
+}
+
+.input-field input[type=text]{
+    border-bottom: 1px solid #880e4f !important;
+    box-shadow: 0 1px 0 0 #880e4f !important;
+    color: #880e4f !important;
+}
+
+.card-panel {
+	width: 600px !important;
+	height: 300px !important;
+}
+
+#card-panel1 {
+	width: 600px !important;
+	height: 350px !important;
+}
+
+#card-panel2 {
+	width: 600px !important;
+	height: 600px !important;
+}
